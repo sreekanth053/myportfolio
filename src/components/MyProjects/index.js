@@ -14,6 +14,15 @@ const projectsLists = [
   },
   {
     id: 2,
+    projectName: "Portfolio",
+    imgUrl:
+      "https://res.cloudinary.com/dt0iyjopp/image/upload/v1680593998/portfolio_zscmd5.png",
+    projectLink: "https://tsreekanth-portfolio.vercel.app/",
+    shortLink: "tsreekanth-portfolio.vercel.app/",
+    techStack: ["React Js"],
+  },
+  {
+    id: 3,
     projectName: "Emoji Game App",
     imgUrl:
       "https://res.cloudinary.com/dt0iyjopp/image/upload/v1680456389/emoji_game_vrv7xp.jpg",
@@ -22,7 +31,7 @@ const projectsLists = [
     techStack: ["React Js", "CSS", "Bootstrap"],
   },
   {
-    id: 3,
+    id: 4,
     projectName: "Todos App",
     imgUrl:
       "https://res.cloudinary.com/dt0iyjopp/image/upload/v1680456389/todos_w6w7b4.jpg",
@@ -31,7 +40,7 @@ const projectsLists = [
     techStack: ["HTML", "CSS", "Bootstrap", "Java Script"],
   },
   {
-    id: 4,
+    id: 5,
     projectName: "Wikipedia Search Application",
     imgUrl:
       "https://res.cloudinary.com/dt0iyjopp/image/upload/v1680456389/wps_shx0s8.jpg",
@@ -40,7 +49,7 @@ const projectsLists = [
     techStack: ["HTML", "CSS", "Bootstrap", "Java Script", "REST API Calls"],
   },
   {
-    id: 5,
+    id: 6,
     projectName: "Food Munch Website",
     imgUrl:
       "https://res.cloudinary.com/dt0iyjopp/image/upload/v1680456389/food_munch_u0gtba.jpg",
