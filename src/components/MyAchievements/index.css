@@ -1,0 +1,35 @@
+.my-achievements {
+    margin-top: 40px;
+    margin-bottom: 50px;
+  }
+  
+  .achievements-img {
+    width: 40%;
+    margin: 50px;
+  }
+  
+  .idp-content {
+    display: flex;
+  }
+  
+  .idp-description-container {
+    margin-top: 30px;
+  }
+  
+  .idp-qmark {
+    color: #f3d9a6;
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
+  .idp-description {
+    color: white;
+    font-size: 15px;
+    font-family: "Varela Round";
+  }
+  
+  .nxt-website {
+    color: white;
+    margin-left: 5px;
+  }
+  

@@ -1,0 +1,36 @@
+.icons-container {
+    list-style-type: none;
+    background-color: #393e4680;
+    height: 100px;
+    width: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    margin: 20px;
+    margin-left: 0px;
+    border-radius: 10px;
+  }
+  
+  .skills-icons {
+    height: 50%;
+    width: 50%;
+    object-fit: contain;
+    /* background-color: green; */
+  }
+  
+  .skill-text {
+    color: #f3d9a6;
+    font-weight: bold;
+    font-size: 13px;
+    /* background-color: red; */
+    margin-bottom: -3px;
+  }
+  
+  @media screen and (max-width: 576px) {
+    .skill-text {
+      font-size: 10px;
+    }
+  }
+  

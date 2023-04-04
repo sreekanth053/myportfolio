@@ -1,0 +1,28 @@
+.myCers {
+    margin-bottom: 50px;
+  }
+  
+  .certificate-div {
+    display: flex;
+    width: 90%;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-left: 40px;
+  }
+  
+  .certificate-img {
+    height: 30vh;
+    margin-bottom: 20px;
+  }
+  
+  .certificate {
+    flex-direction: column;
+    margin-top: 30px;
+  }
+  
+  .certificate-txt {
+    font-size: 15px;
+    color: #f3d9a6;
+    font-weight: bold;
+  }
+  

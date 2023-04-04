@@ -1,0 +1,49 @@
+.home-container {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 500px;
+    padding-top: 30px;
+  }
+  
+  .home-name {
+    font-weight: 700;
+    font-size: 30px;
+    color: #eeeeee;
+  }
+  
+  .span-name {
+    color: #00adb5;
+  }
+  
+  .home-job-role {
+    margin-top: -15px;
+    font-size: 18px;
+    color: #eeeeee;
+    font-family: "Yeon Sung";
+  }
+  
+  .download-btn {
+    display: flex;
+    font-size: 11px;
+    flex-direction: row;
+    align-items: center;
+    padding: 6px 12px;
+    gap: 5px;
+    background: rgba(57, 62, 70, 0.75);
+    border: 0.5px solid lightgray;
+    backdrop-filter: blur(2px);
+    border-radius: 24px;
+    color: #ffffff;
+    cursor: pointer;
+  }
+  
+  .download-icon {
+    padding-bottom: 3px;
+  }
+  
+  .img {
+    border-radius: 50%;
+    height: 280px;
+  }
+  
